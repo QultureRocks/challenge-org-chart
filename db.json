@@ -1,0 +1,158 @@
+{
+  "companies": [
+    {
+      "id": 0,
+      "name": "Qulture.rocks"
+    },
+    {
+      "id": 1,
+      "name": "Dunder Mifflin"
+    }
+  ],
+  "tags": [
+    {
+      "company_id": 2,
+      "id": 0,
+      "name": "[AREA] Product"
+    },
+    {
+      "company_id": 2,
+      "id": 1,
+      "name": "[AREA] Marketing"
+    },
+    {
+      "company_id": 2,
+      "id": 2,
+      "name": "[AREA] Customer Success"
+    },
+    {
+      "company_id": 2,
+      "id": 3,
+      "name": "[LOCATION] BRAZIL"
+    },
+    {
+      "company_id": 2,
+      "id": 4,
+      "name": "[LOCATION] USA"
+    },
+    {
+      "company_id": 1,
+      "id": 5,
+      "name": "Lol"
+    },
+    {
+      "company_id": 1,
+      "id": 6,
+      "name": "Dota"
+    }
+  ],
+  "users": [
+    {
+      "company_id": 2,
+      "email": "britany.konen@dunder.com",
+      "id": 0,
+      "name": "Britany Konen",
+      "supervisor_id": 1
+    },
+    {
+      "company_id": 2,
+      "email": "britteny.roddy@dunder.com",
+      "id": 1,
+      "name": "Britteny Roddy",
+      "supervisor_id": 3
+    },
+    {
+      "company_id": 2,
+      "email": "charmain.pineo@dunder.com",
+      "id": 2,
+      "name": "Charmain Pineo",
+      "supervisor_id": 3
+    },
+    {
+      "company_id": 2,
+      "email": "ciara.kraus@dunder.com",
+      "id": 3,
+      "name": "Ciara Kraus",
+      "supervisor_id": null
+    },
+    {
+      "company_id": 2,
+      "email": "claribel.bromley@dunder.com",
+      "id": 4,
+      "name": "Claribel Bromley",
+      "supervisor_id": 3
+    },
+    {
+      "company_id": 2,
+      "email": "concepcion.armstead@dunder.com",
+      "id": 5,
+      "name": "Concepcion Armstead",
+      "supervisor_id": 4
+    },
+    {
+      "company_id": 2,
+      "email": "consuela.stowe@dunder.com",
+      "id": 6,
+      "name": "Consuela Stowe",
+      "supervisor_id": 1
+    },
+    {
+      "company_id": 2,
+      "email": "danna.hammill@dunder.com",
+      "id": 7,
+      "name": "Danna Hammill",
+      "supervisor_id": 4
+    },
+    {
+      "company_id": 1,
+      "email": "joao@qulture.rocks",
+      "id": 8,
+      "name": "Jota Bê",
+      "supervisor_id": null
+    },
+    {
+      "company_id": 1,
+      "email": "kiki@qulture.rocks",
+      "id": 9,
+      "name": "Jota Bê",
+      "supervisor_id": 8
+    }
+  ],
+  "taggings": [
+    {
+      "id": 0,
+      "user_id": 0,
+      "tag_id": 0
+    },
+    {
+      "id": 1,
+      "user_id": 0,
+      "tag_id": 3
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "tag_id": 0
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "tag_id": 4
+    },
+    {
+      "id": 4,
+      "user_id": 7,
+      "tag_id": 2
+    },
+    {
+      "id": 5,
+      "user_id": 8,
+      "tag_id": 5
+    },
+    {
+      "id": 6,
+      "user_id": 9,
+      "tag_id": 6
+    }
+  ]
+}
